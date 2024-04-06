@@ -1,0 +1,114 @@
+06:57:37.094[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+06:57:37.378[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+06:57:37.435[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+06:57:38.240[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+06:57:38.332[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+06:57:38.458[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+06:57:40.104[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+06:57:42.737[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+06:57:42.867[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+06:57:43.280[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+06:57:43.414[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+06:57:43.473[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+06:57:43.984[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+06:57:54.028[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+06:57:54.161[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:03:31.991[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:03:36.160[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:03:36.331[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:03:36.746[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:03:36.977[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:03:37.098[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:03:38.028[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:03:38.136[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+07:03:38.248[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:03:39.173[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:03:41.814[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:03:41.949[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:03:42.373[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:03:42.537[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:03:42.603[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:03:43.074[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:03:53.174[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+07:03:53.321[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:06:42.911[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:06:45.824[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:06:45.957[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:06:46.422[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:06:46.631[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:06:46.729[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:06:48.005[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:06:48.114[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+07:06:48.237[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:06:49.240[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:06:52.126[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:06:52.197[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:06:52.570[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:06:52.750[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:06:52.884[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:06:53.376[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:07:03.447[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+07:07:03.556[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:08:17.212[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:08:19.797[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:08:20.024[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:08:20.438[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:08:20.553[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:08:20.607[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:08:21.437[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:08:21.525[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+07:08:21.650[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:08:22.577[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:08:25.518[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:08:25.642[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:08:26.079[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:08:26.228[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:08:26.348[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:08:26.862[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:08:31.914[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+07:08:32.026[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:39:35.082[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:39:38.375[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:39:38.505[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:39:39.143[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:39:39.236[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:39:39.288[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:39:40.090[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:39:40.209[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+07:39:40.344[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+07:39:41.339[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+07:39:43.942[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+07:39:44.011[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+07:39:44.391[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+07:39:44.578[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+07:39:44.665[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+07:39:45.238[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+07:39:50.288[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+07:39:50.372[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+20:58:57.352[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+20:58:59.998[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+20:59:00.221[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+20:59:00.763[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+20:59:00.868[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+20:59:00.920[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+20:59:02.029[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+20:59:02.106[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+20:59:02.209[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+21:00:31.469[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+21:00:33.548[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+21:00:33.692[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+21:00:34.106[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+21:00:34.238[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+21:00:34.301[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+21:00:35.120[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+21:00:35.180[TestNG-tests-1] INFO  tests.LoginTest -user  got logged in 
+21:00:35.318[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
+21:00:36.179[TestNG-tests-1] DEBUG tests.LoginTest -Browser got launched
+21:00:37.930[TestNG-tests-1] DEBUG tests.LoginTest -Navigated to application URL
+21:00:37.981[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on the My Account
+21:00:38.308[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login option from  My account dropdown
+21:00:38.380[TestNG-tests-1] DEBUG tests.LoginTest -Sending email address to the email field
+21:00:38.434[TestNG-tests-1] DEBUG tests.LoginTest -Sending password to password field
+21:00:38.900[TestNG-tests-1] DEBUG tests.LoginTest -Clicked on login button 
+21:00:43.928[TestNG-tests-1] INFO  tests.LoginTest -user didn't  logged in 
+21:00:44.104[TestNG-tests-1] DEBUG tests.LoginTest -closed the browser
