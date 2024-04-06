@@ -15,6 +15,7 @@ public class FourTest extends Base {
 	public void fourTest() throws IOException, InterruptedException
 	{
 		System.out.println("FourTest");
+		System.out.println("adding to github");
 		driver = initializeDriver();
 		driver.get("https://tutorialsninja.com/demo/");
 		Assert.assertTrue(false);
